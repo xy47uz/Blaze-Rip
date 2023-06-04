@@ -1,0 +1,30 @@
+無盡錘
+基本屬性:
+攻擊力:51
+可作為稿子使用:效率為3.0
+物品內部具有1個格子，可放置爆裂物作為彈藥
+
+攻擊特效:
+對目標施加內部爆破效果，每2秒觸發1次無視防禦的傷害，總共觸發4次，共計造成爆裂物傷害*2的傷害。
+
+每次觸發內部爆破時:
+若目標存活，對四周生物造成該次傷害50%的傷害值(計算防禦)。
+若目標死亡，對四周生物造成剩餘傷害100%的傷害值(計算防禦)。
+
+若爆裂物為Brightshade Bomb則對暗影生物造成1.1倍的爆破傷害。
+
+Blaze Rip
+Damage:51
+Pickaxe Efficiency:3.0
+Has a slot,which can place explosive items as ammo.(Ex.Gunpower,Slurtle Slime,Brightshade Bomb)
+
+On attack hit:
+Apply "Inner Explode" effect,which deal damage(ignore defence) to target periodically.
+This effect triggered for every 2 seconds for 4 times.
+This effect deal total damage equal to 200% of the ammo damage.
+
+On "Inner Explode" triggerred:
+If target survived,deal 50% current damage to nearby enemies.
+If target killed,deal 100% remaining damage to nearby enemies.
+
+If ammo in slot is Brightshade Bomb, Inner Explode will deal 1.1 times damage against shadow enemies.
